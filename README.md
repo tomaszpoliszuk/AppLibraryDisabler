@@ -4,7 +4,7 @@ Turn off App Library
 ## Compatibility
 iOS 14 and above
 
-## What this tweak do:
+## Features:
 * this tweak disables App Library introduced in iOS 14
 
 **No options to configure**

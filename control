@@ -1,7 +1,7 @@
 Package: com.tomaszpoliszuk.applibrarydisabler
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
 Name: App Library Disabler
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Description: Turn off App Library
 Author: Tomasz Poliszuk
