@@ -1,10 +1,15 @@
 Package: com.tomaszpoliszuk.applibrarydisabler
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.tomaszpoliszuk.applibraryenabler
+Depends: firmware (>= 14.0), mobilesubstrate, cy+model.iphone | cy+model.ipod | firmware (>= 15.0)
 Name: App Library Disabler
-Version: 1.0.1
+Version: 1.1.1
 Architecture: iphoneos-arm
 Description: Turn off App Library
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=applibrarydisablerDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=applibrarydisablerDp
+Maintainer: BigBoss <bigboss@thebigboss.org>
 Author: Tomasz Poliszuk
+Sponsor: thebigboss.org <http://thebigboss.org>
 Section: Tweaks
 dev: tomaszpoliszuk
 Tag: purpose::extension
